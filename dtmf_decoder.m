@@ -1,4 +1,4 @@
-x = load("lab2_data_10.txt");
+x = load("signal_data.txt");
 x = x.';
 
 a = 45 * 10^(-3); %длительность импульса (с)
